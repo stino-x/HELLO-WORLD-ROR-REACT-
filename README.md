@@ -117,7 +117,7 @@ To run tests, run the following command:
 ## 👥 Authors <a name="authors"></a>
 
   👤 **Augustine Iheagwara**
-- GitHub: [stino-x](https://github.com/Booze33)
+- GitHub: [stino-x](https://github.com/stino-x)
 - LinkedIn: [Augustine Iheagwra](https://www.linkedin.com/in/augustine-iheagwara-644b11228/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
